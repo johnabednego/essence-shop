@@ -1,6 +1,4 @@
 ## E-Commerce Store
-[Essence](https://essence-store.netlify.app/) - An e-commerce store for selling fragrances
-
 https://user-images.githubusercontent.com/77036784/173244452-f585322e-8486-497a-91df-7fcf2078422e.mp4
 
 
